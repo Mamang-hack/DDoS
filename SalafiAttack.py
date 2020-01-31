@@ -25,6 +25,7 @@ print "You Tube : https://www.youtube.com/c/SalafiCyberMuslim"
 print "github   : https://github.com/Mamang-hack"
 print "Facebook : Wong Kang Edzan"
 print "Whatsapp : 085781291915"
+print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
