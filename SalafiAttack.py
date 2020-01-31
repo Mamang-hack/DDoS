@@ -20,6 +20,11 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet Salafi Attack")
 print
+print "╔══╗───────────╔═╗╔╗──╔══╗╔╗─╔╗────────╔╗─
+║══╣╔═╗─╔╗─╔═╗─║═╣╠╣──║╔╗║║╚╗║╚╗╔═╗─╔═╗║╠╗
+╠══║║╬╚╗║╚╗║╬╚╗║╔╝║║╔╗║╠╣║║╔╣║╔╣║╬╚╗║═╣║═╣
+╚══╝╚══╝╚═╝╚══╝╚╝─╚╝╚╝╚╝╚╝╚═╝╚═╝╚══╝╚═╝╚╩╝
+──────────────────────────────────────────"
 print "Author   : MR.3"
 print "You Tube : https://www.youtube.com/c/SalafiCyberMuslim"
 print "github   : https://github.com/Mamang-hack"
