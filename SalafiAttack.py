@@ -18,13 +18,13 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet DDos Attack")
+os.system("figlet Salafi Attack")
 print
-print "Author   : HA-MRX"
-print "You Tube : https://www.youtube.com/c/HA-MRX"
-print "github   : https://github.com/Ha3MrX"
-print "Facebook : https://www.facebook.com/muhamad.jabar222"
-print
+print "Author   : MR.3"
+print "You Tube : https://www.youtube.com/c/SalafiCyberMuslim"
+print "github   : https://github.com/Mamang-hack"
+print "Facebook : Wong Kang Edzan"
+print "Whatsapp : 085781291915"
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
